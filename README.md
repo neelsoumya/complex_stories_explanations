@@ -65,6 +65,9 @@ Forthcoming
 
 Yujia Yang and Soumya Banerjee
 
+sb2333@cam.ac.uk
+
+
 # References
 
 1. Banerjee S, Lio P, Jones PB, Cardinal RN (2021) A class-contrastive human-interpretable machine learning approach to predict mortality in severe mental illness. npj Schizophr 7: 1–13.
