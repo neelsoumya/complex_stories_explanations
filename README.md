@@ -70,5 +70,7 @@ sb2333@cam.ac.uk
 
 # References
 
+If you use this work, please cite the following paper:
+
 1. Banerjee S, Lio P, Jones PB, Cardinal RN (2021) A class-contrastive human-interpretable machine learning approach to predict mortality in severe mental illness. npj Schizophr 7: 1–13.
 
