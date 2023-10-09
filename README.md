@@ -82,6 +82,10 @@ If you use this work, please cite the following paper:
 
 1. Banerjee S, Lio P, Jones PB, Cardinal RN (2021) A class-contrastive human-interpretable machine learning approach to predict mortality in severe mental illness. npj Schizophr 7: 1–13.
 
+  https://www.nature.com/articles/s41537-021-00191-y
+
+
+
 2. Yujia Yang, Soumya Banerjee, Generating complex explanations from machine learning models using class-contrastive reasoning
 
 https://www.medrxiv.org/content/10.1101/2023.10.06.23296591v1
